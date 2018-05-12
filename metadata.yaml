@@ -1,0 +1,28 @@
+_repo: Sir-Thomas-Urquhart-of-Cromartie-Knight_38604
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38604-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Willcock, John
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '39569'
+    url: http://www.gutenberg.org/2009/agents/39569
+description: ''
+gutenberg_issued: '2012-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38604'
+  lccn: 02009166
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Crichton, James, 1560-1582'
+- !lcsh 'Urquhart, Thomas, 1611-1660'
+title: Sir Thomas Urquhart of Cromartie, Knight
+url: http://www.gutenberg.org/ebooks/38604
